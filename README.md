@@ -19,7 +19,8 @@ The user id that executed the command
 The time we greeted you.
 
 ## Example usage
-
+```
 uses: AureaMohammadAlavi/smash-docker-action@v1
 with:
   who-to-greet: 'Mona the Octocat'
+```
